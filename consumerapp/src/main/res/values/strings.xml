@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+
+    <string name="movie_image">Movie image</string>
+
+    <string name="overview">Overview</string>
+    <string name="score">User score</string>
+    <string name="popularity">Popularity: %1$s</string>
+
+    <string name="make_favorite">Make Favorite</string>
+    <string name="movie_empty">Movie favorite is empty</string>
+</resources>
